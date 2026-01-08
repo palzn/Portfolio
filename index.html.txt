@@ -1,0 +1,21 @@
+DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hello, I'm Pallavi</h1>
+  <p>Fresher | Learning Git & DevOps</p>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>Git</li>
+    <li>Linux</li>
+    <li>AWS (Basics)</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <p>Email: pallavi@email.com</p>
+</body>
+</html>
